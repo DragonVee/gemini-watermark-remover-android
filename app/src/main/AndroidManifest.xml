@@ -7,7 +7,7 @@
         android:allowBackup="true"
         android:label="Gemini Remover"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Material3.DayNight">
+        android:theme="@style/AppTheme">
         <activity
             android:name=".ui.MainActivity"
             android:exported="true">
