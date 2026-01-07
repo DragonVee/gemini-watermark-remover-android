@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <string name="app_name">Gemini Remover</string>
+    <style name="Theme.Material3.DayNight" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>

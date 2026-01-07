@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+color purple_200
+drawable bg_48
+drawable bg_96
+string app_name
+style Theme.Material3.DayNight

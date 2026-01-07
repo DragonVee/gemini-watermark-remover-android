@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.geminiwatermark.app-merged_res-42:/drawable_bg_48.png.flat",
+        "source": "com.example.geminiwatermark.app-main-44:/drawable/bg_48.png"
+    },
+    {
+        "merged": "com.example.geminiwatermark.app-merged_res-42:/drawable_bg_96.png.flat",
+        "source": "com.example.geminiwatermark.app-main-44:/drawable/bg_96.png"
+    }
+]
